@@ -1,0 +1,8 @@
+.product-overlay {
+    height: 100%;
+    width: 20%;
+    right: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 2;
+}
