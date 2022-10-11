@@ -2,3 +2,4 @@ Cart icons is not working.
 Clicking on the Red button shows the Overlay where QRs needs to be shown, Clicking on the Overlay disappears it. We need to disappear the Overlay also when the Video playback (background) is being clicked.
 Show an (expansion & collapse) toast to the near left of the Red button (Cart icon in future). // Reference: Youtube (i) button on top right.
 Create Sample Videos and JSON files accordingly.
+Choosing the video file to play from "Choose File" does not work the first time.
